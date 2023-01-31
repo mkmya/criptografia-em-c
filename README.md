@@ -22,7 +22,7 @@ CIFRA DE VIGENERE
 
 Para fazer o programa foi utilizado a Cifra de Vigenere, uma tabela de alfabetos que consiste no alfabeto escrito 26 vezes em diferentes linhas, cada um deslocado ciclicamente do anterior por uma posição. As 26 linhas correspondem às 26 possíveis cifras. Uma palavra é escolhida como "palavra-chave", e cada letra desta palavra vai indicar a linha a ser utilizada para cifrar ou decifrar uma letra da mensagem.
 
-<img alt="Capa" src=".\img\foto-resultado.png">
+<img alt="Resultado" src=".\img\foto-resultado.png">
 
 
 <p align="center">Feito por Marina Kamiya e Matheus Almeida</p>
