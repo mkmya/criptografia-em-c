@@ -1,5 +1,3 @@
-# criptografia-em-c
-
 <h1 align="center"> Criptografia em C </h1>
 
 <p align="center">
